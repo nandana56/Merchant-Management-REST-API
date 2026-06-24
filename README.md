@@ -24,6 +24,25 @@ Express.js
 
 MongoDB
 
+## Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/nandana56/Merchant-Management-REST-API.git
+```
+
+### Move to Project Folder
+
+```bash
+cd Merchant-Management-REST-API
+```
+
+### Install Dependencies
+
+```bash
+npm install
+
 Mongoose ODM
 
 JSON Web Token (JWT)
