@@ -47,4 +47,23 @@ Mongoose ODM
 
 JSON Web Token (JWT)
 
+## Run the Application
+
+### Development Mode
+
+```bash
+npm run dev
+```
+
+### Production Mode
+
+```bash
+npm start
+```
+
+Server runs on:
+
+```text
+http://localhost:5000
+
 Postman
